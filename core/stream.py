@@ -28,7 +28,8 @@ from pytgcalls.types.stream import MediaStream
 from pyrogram.raw.types import InputPeerChannel
 from pytgcalls.types import AudioQuality, VideoQuality
 from pyrogram.raw.functions.phone import CreateGroupCall
-from pytgcalls.exceptions import GroupCallNotFound, NoActiveGroupCall
+from py_tgcalls.exceptions import GroupCallNotFound, NoActiveGroupCall
+
 
 
 safone = {}
