@@ -2,8 +2,8 @@ yt-dlp
 pytube
 pillow
 spotipy
-aiohttp
 aiofiles
+aiohttp
 tgcrypto
 py-tgcalls==2.2.6
 python-dotenv
